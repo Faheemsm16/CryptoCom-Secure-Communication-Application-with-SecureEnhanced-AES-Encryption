@@ -13,48 +13,38 @@ The centerpiece of this project is the implementation of the Secure Enhanced AES
 In summary, this project represents a significant advancement in mobile communication security, providing users with a robust and user-friendly platform where privacy and security are paramount. Through the integration of cutting-edge encryption technologies and seamless user experience design, this messaging application sets a new standard for secure and private communication on Android devices.
 
 ## App Preview
-
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/a152f9f0-b708-4a34-a5cf-bf5413f8e5db)
 **LOGIN ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/a152f9f0-b708-4a34-a5cf-bf5413f8e5db)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/9f6c0ff5-13b9-4ee1-9751-f2681feaaa9e)
 **LOGIN ACTIVITY UI FOR NEW USER**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/9f6c0ff5-13b9-4ee1-9751-f2681feaaa9e)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c39b236a-e647-4c3c-9877-6efe3d9ffacd)
 **LOGIN ACTIVITY UI FOR EXISTING USER**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c39b236a-e647-4c3c-9877-6efe3d9ffacd)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/377818fd-20f2-4538-871a-6b8b09cec402)
 **OTP VERIFICATION ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/377818fd-20f2-4538-871a-6b8b09cec402)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/26b9912d-ad9c-4b38-b056-12c498120b8e)
 **REGISTRATION ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/26b9912d-ad9c-4b38-b056-12c498120b8e)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/2a52606d-c0d0-42b7-a0d7-f9f542562975)
 **OTP ENTRY DIALOG UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/2a52606d-c0d0-42b7-a0d7-f9f542562975)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/eb559c42-ddf7-49ce-b2e0-24c1beda8d7d)
 **HOME ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/eb559c42-ddf7-49ce-b2e0-24c1beda8d7d)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/9d0d682e-0aed-45d2-9393-edef7d142d37)
 **HOME ACTIVITY SEARCH FUNCTIONALITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/9d0d682e-0aed-45d2-9393-edef7d142d37)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/1a018e4d-172b-42e9-9416-f6acd2d7dc60)
 **HOME ACTIVITY OPTIONS MENU UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/1a018e4d-172b-42e9-9416-f6acd2d7dc60)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/472e9a62-4414-4f69-8cbc-bfaae53f835e)
 **PROFILE ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/472e9a62-4414-4f69-8cbc-bfaae53f835e)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c5979620-75d9-4934-89f9-fea22766d4f1)
 **CONTACTS ACTIVITY UI**
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c5979620-75d9-4934-89f9-fea22766d4f1)
 
-![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c63f40b9-c19b-491b-a1cb-07f4b4ead2ab)
 **CHAT ACTIVITY UI**
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Faheemsm16/CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption/assets/101935380/c63f40b9-c19b-491b-a1cb-07f4b4ead2ab)
