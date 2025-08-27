@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@android:drawable/ic_menu_call"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="Phone Icon"/>
+
+    <EditText
+        android:id="@+id/inputPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="Enter Your Phone Number"
+        android:layout_marginTop="16dp"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/confirmPhoneNumberButton"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Continue"-->
+<!--        android:backgroundTint="@color/colorPrimary"-->
+<!--        android:textColor="#FFFFFF"-->
+<!--        android:layout_marginTop="16dp"/>-->
+</LinearLayout>

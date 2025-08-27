@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Circle -->
+
+
+    <!-- Send Icon -->
+    <item
+        android:drawable="@drawable/ic_send"
+        android:gravity="center"
+        android:right="4dp"
+    android:top="4dp"
+    android:bottom="4dp"
+    />
+</layer-list>

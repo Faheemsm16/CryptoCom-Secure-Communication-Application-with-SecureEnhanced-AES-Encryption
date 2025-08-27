@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoCom</string>
+        <string name="firebase_auth_domain">cryptochat-2ffee</string>
+        <string name="firebase_api_key">AIzaSyA40TX9yUqgUKmXMqHgMugP0c8EFa56o-c</string>
+    <string name="default_notification_channel_id">messaging_channel</string>
+    <string name="ic_lock_description">Lock Icon</string>
+</resources>

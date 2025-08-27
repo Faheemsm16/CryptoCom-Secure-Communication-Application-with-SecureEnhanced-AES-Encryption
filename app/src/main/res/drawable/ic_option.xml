@@ -1,0 +1,11 @@
+<!-- res/drawable/ic_option.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0"
+    android:tint="@android:color/white">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,8C10.89,8 10,8.89 10,10C10,11.11 10.89,12 12,12C13.11,12 14,11.11 14,10C14,8.89 13.11,8 12,8M12,14C10.89,14 10,14.89 10,16C10,17.11 10.89,18 12,18C13.11,18 14,17.11 14,16C14,14.89 13.11,14 12,14M12,20C10.89,20 10,20.89 10,22C10,23.11 10.89,24 12,24C13.11,24 14,23.11 14,22C14,20.89 13.11,20 12,20Z"/>
+</vector>

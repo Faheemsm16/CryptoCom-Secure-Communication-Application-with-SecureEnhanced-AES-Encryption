@@ -1,0 +1,38 @@
+<!-- res/layout/chat_item_layout.xml -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Contact Name -->
+    <TextView
+        android:id="@+id/contactNameTextView"
+        style="@style/ChatItemTitle"
+        android:text="Contact Name" />
+
+    <!-- Last Message -->
+    <TextView
+        android:id="@+id/lastMessageTextView"
+        style="@style/ChatItemSubtitle"
+        android:text="Last message goes here" />
+
+    <!-- Timestamp -->
+    <TextView
+        android:id="@+id/timestampTextView"
+        style="@style/ChatItemTimestamp"
+        android:text="Timestamp" />
+
+    <TextView
+        android:id="@+id/unreadMessageCountTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|top"
+        android:padding="4dp"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:visibility="gone" /> <!-- Initially set to gone -->
+
+</LinearLayout>
