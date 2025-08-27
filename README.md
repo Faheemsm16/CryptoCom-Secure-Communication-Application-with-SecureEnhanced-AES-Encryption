@@ -1,5 +1,20 @@
 # CryptoCom-Secure-Communication-Application-with-SecureEnhanced-AES-Encryption
 
+> **⚠️ Important Setup Notice**
+>
+> Before running the application, make sure to:
+>
+> 1. **Place your** `google-services.json` **file** inside the **`app/`** directory.
+> 2. Add your **Firebase credentials** in **`app/src/main/res/values/strings.xml`**:
+>
+>    ```xml
+>    <string name="firebase_auth_domain">YOUR_FIREBASE_AUTH_DOMAIN</string>
+>    <string name="firebase_api_key">YOUR_FIREBASE_API_KEY</string>
+>    ```
+>
+> Without these configurations, Firebase authentication and database services will not work.
+
+
 ## About the Project 
 
 In today's interconnected world, ensuring the security and privacy of personal information is paramount. This project addresses this critical need by developing a sophisticated messaging application for Android devices, designed to provide users with a secure and reliable platform for exchanging messages. Leveraging the power of Firebase for authentication and real-time database management, the application offers seamless user registration and login processes while ensuring data integrity and confidentiality.
